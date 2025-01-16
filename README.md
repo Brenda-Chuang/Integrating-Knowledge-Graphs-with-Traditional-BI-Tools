@@ -6,6 +6,12 @@ This project was conducted as part of my Master's program and involved collabora
 
 ---
 
+## Key Findings 
+By combining traditional performance metrics with relationship-driven networked graphs in a single dashboard, users gain a clear and comprehensive view of the data, revealing deeper insights and connections.
+
+## Project Posters
+[InformSupply Project Poster_finalised_2024.10.09.pdf](https://github.com/user-attachments/files/18435463/InformSupply.Project.Poster_finalised_2024.10.09.pdf)
+
 ## Key Features
 - **RDF Data Transformation**: Converted RDF data into a star schema, aligning it with relational database structures for BI integration.
 - **Power BI Integration**: Explored multiple integration methods, selecting CSV export as the final approach for performance optimisation.
@@ -53,6 +59,11 @@ This project was conducted as part of my Master's program and involved collabora
 
 5. **Dashboard Design**:
    - Built the Power BI dashboard, including four report pages integrating traditional and networked graph visuals using ZoomCharts.
+   - Dashboard demo video. <br/>
+     [![Watch the video](https://img.youtube.com/vi/W6pE34_IT0A/0.jpg)](https://www.youtube.com/watch?v=W6pE34_IT0A)
+
+Click the image above to watch the project demo on YouTube.
+
    - Page 1: Actor Performance and Centrality <br/>
      ![image](https://github.com/user-attachments/assets/1dd47013-9a37-4016-9b22-76d6d0b8fa05) <br/>
      This page combines traditional bar and column charts with a networked visual to analyse actors with the highest comment counts and their centrality in the movie network. The bar column highlights actors with the most comments, while the bar charts show the centrality rank of top actors. The networked graph adds value by showcasing their connections to specific movies and other actors, providing insights into how their prominence in the network compares to their comment performance.
