@@ -89,7 +89,7 @@ The dataset includes details about movies, actors, genres, and related attribute
      This page presents genre-movie connections across countries using bar and pie charts to show the most popular movies and genres by comment count. The networked graph maps out the relationships between countries, genres, and movies, providing a comprehensive view of how different genres perform across various countries.
 
 ---
-## Visualisation Methods Comparison for reporting
+## Visualisation Methods Comparison for Reporting
 - Summary of Strengths and Limitations of Visualisation Methods
   ![image](https://github.com/user-attachments/assets/05f50ebc-24ab-40d6-97ea-903fc081bf96)
 
