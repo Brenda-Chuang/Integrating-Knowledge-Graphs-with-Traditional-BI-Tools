@@ -9,11 +9,6 @@ This project was conducted as part of my Master's program and involved collabora
 ## Key Findings 
 By combining traditional performance metrics with relationship-driven networked graphs in a single dashboard, users gain a clear and comprehensive view of the data, revealing deeper insights and connections.
 
-## Project Posters and Brochure for Expo
-[![View the PDF](https://raw.githubusercontent.com/username/repository/branch/images/poster_thumbnail.png)](https://raw.githubusercontent.com/username/repository/branch/docs/InformSupply_Project_Poster.pdf)
-Click the thumbnail above to view the full project poster as a PDF.
-
-
 ## Key Features
 - **RDF Data Transformation**: Converted RDF data into a star schema, aligning it with relational database structures for BI integration.
 - **Power BI Integration**: Explored multiple integration methods, selecting CSV export as the final approach for performance optimisation.
@@ -21,13 +16,18 @@ Click the thumbnail above to view the full project poster as a PDF.
 - **Visualization Methods Comparison**: Summarised the strengths and limitations of ZoomCharts, NetworkX, and GraphDB built-in visuals.
 - **User Interaction Testing**: Conducted testing to validate usability and collect feedback from users. Participants valued the simplicity of traditional charts for straightforward tasks and appreciated the depth provided by networked graphs for more complex analyses.
 
+## Project Posters and Brochure for Expo
+- [Technical Poster](https://github.com/Brenda-Chuang/Integrating-Knowledge-Graphs-with-Traditional-BI-Tools/blob/main/InformSupply%20Project%20Poster_finalised_2024.10.09.pdf)
+- [Emotional Poster](https://github.com/Brenda-Chuang/Integrating-Knowledge-Graphs-with-Traditional-BI-Tools/blob/main/Emotional%20Infograph%20-%20InformSupply_2024.10.09.pdf)
+- [Brochure for Guests](https://github.com/Brenda-Chuang/Integrating-Knowledge-Graphs-with-Traditional-BI-Tools/blob/main/InformSupply_Capstone%20Project_Brochure_2024.10.09.pdf)
+
 ---
 
 ## My Role
 ### **Technical Contributions**
-- - Explored and developed Power BI integration using multiple methods.
-- - Designed and implemented the RDF-to-star schema transformation process and data modelling.
-- - Built an interactive Power BI dashboard, using ZoomCharts visuals for networked graphs in all report pages.
+- Explored and developed Power BI integration using multiple methods.
+- Designed and implemented the RDF-to-star schema transformation process and data modelling.
+- Built an interactive Power BI dashboard, using ZoomCharts visuals for networked graphs in all report pages.
 
 ### **Project Leadership**
 - Led the project team, managed timelines, and ensured deliverables aligned with client goals.
@@ -65,19 +65,19 @@ Click the thumbnail above to view the full project poster as a PDF.
      [![Watch the video](https://img.youtube.com/vi/W6pE34_IT0A/0.jpg)](https://www.youtube.com/watch?v=W6pE34_IT0A) <br/>
      Click the image above to watch the project demo on YouTube.
 
-   - Page 1: Actor Performance and Centrality <br/>
+     - Page 1: Actor Performance and Centrality <br/>
      ![image](https://github.com/user-attachments/assets/1dd47013-9a37-4016-9b22-76d6d0b8fa05) <br/>
      This page combines traditional bar and column charts with a networked visual to analyse actors with the highest comment counts and their centrality in the movie network. The bar column highlights actors with the most comments, while the bar charts show the centrality rank of top actors. The networked graph adds value by showcasing their connections to specific movies and other actors, providing insights into how their prominence in the network compares to their comment performance.
 
-   - Page 2: Actor Collaborations Across Movies <br/>
+    - Page 2: Actor Collaborations Across Movies <br/>
      ![image](https://github.com/user-attachments/assets/d9147df9-8bd9-4d71-914c-78960f0406f6) <br/>
      This page uses traditional charts to show which actors have acted in the most movies. The networked graph enhances the analysis by revealing actor collaborations within specific movie genres, visually mapping how frequently they co-star in the same movies. Together, they offer a deeper understanding of the relationships between actors and their levels of participation in different genres.
 
-   - Page 3: Actor Versatility <br/>
+    - Page 3: Actor Versatility <br/>
      ![image](https://github.com/user-attachments/assets/0b9d0345-153d-4cee-8f3a-856836f0462a) <br/>
      The bar chart summarises the number of genres top actors have participated in, while a heatmap visualises how many times they appeared in each genre. The networked graph adds another dimension, showing clusters of actors organised by genre participation, which helps identify which actors are more versatile or specialized in certain genres. This combination offers both a high-level overview and a detailed look at actor-genre relationships. 
 
-   - Page 4: Genre Synergies and Engagement <br/>
+    - Page 4: Genre Synergies and Engagement <br/>
      ![image](https://github.com/user-attachments/assets/3319c736-c73e-43ed-814f-12e434d3fc25) <br/>
      This page presents genre-movie connections across countries using bar and pie charts to show the most popular movies and genres by comment count. The networked graph maps out the relationships between countries, genres, and movies, providing a comprehensive view of how different genres perform across various countries.
 
