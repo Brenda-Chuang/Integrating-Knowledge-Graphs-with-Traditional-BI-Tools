@@ -9,8 +9,10 @@ This project was conducted as part of my Master's program and involved collabora
 ## Key Findings 
 By combining traditional performance metrics with relationship-driven networked graphs in a single dashboard, users gain a clear and comprehensive view of the data, revealing deeper insights and connections.
 
-## Project Posters
-[InformSupply Project Poster_finalised_2024.10.09.pdf](https://github.com/user-attachments/files/18435463/InformSupply.Project.Poster_finalised_2024.10.09.pdf)
+## Project Posters and Brochure for Expo
+[![View the PDF](https://raw.githubusercontent.com/username/repository/branch/images/poster_thumbnail.png)](https://raw.githubusercontent.com/username/repository/branch/docs/InformSupply_Project_Poster.pdf)
+Click the thumbnail above to view the full project poster as a PDF.
+
 
 ## Key Features
 - **RDF Data Transformation**: Converted RDF data into a star schema, aligning it with relational database structures for BI integration.
