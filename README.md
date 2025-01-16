@@ -21,6 +21,13 @@ By combining traditional performance metrics with relationship-driven networked 
 - [Emotional Poster](https://github.com/Brenda-Chuang/Integrating-Knowledge-Graphs-with-Traditional-BI-Tools/blob/main/Emotional%20Infograph%20-%20InformSupply_2024.10.09.pdf)
 - [Brochure for Guests](https://github.com/Brenda-Chuang/Integrating-Knowledge-Graphs-with-Traditional-BI-Tools/blob/main/InformSupply_Capstone%20Project_Brochure_2024.10.09.pdf)
 
+## Project Objectives
+The purpose of this project is to explore integration and visualisation methods for combining knowledge graphs with traditional BI tools. By using an open-source movie dataset, the project provides a practical demonstration of how RDF data can be transformed, integrated, and visualised in Power BI.
+
+## Dataset
+Dataset Used: An open-source [movie dataset](https://github.com/Brenda-Chuang/Integrating-Knowledge-Graphs-with-Traditional-BI-Tools/blob/main/movies.ttl) was selected to simulate real-world scenarios and provide a clear context for testing integration and visualisation approaches.
+The dataset includes details about movies, actors, genres, and related attributes, offering a rich source for evaluating visualisation methods.
+
 ---
 
 ## My Role
@@ -65,7 +72,7 @@ By combining traditional performance metrics with relationship-driven networked 
      [![Watch the video](https://img.youtube.com/vi/W6pE34_IT0A/0.jpg)](https://www.youtube.com/watch?v=W6pE34_IT0A) <br/>
      Click the image above to watch the project demo on YouTube.
 
-     - Page 1: Actor Performance and Centrality <br/>
+    - Page 1: Actor Performance and Centrality <br/>
      ![image](https://github.com/user-attachments/assets/1dd47013-9a37-4016-9b22-76d6d0b8fa05) <br/>
      This page combines traditional bar and column charts with a networked visual to analyse actors with the highest comment counts and their centrality in the movie network. The bar column highlights actors with the most comments, while the bar charts show the centrality rank of top actors. The networked graph adds value by showcasing their connections to specific movies and other actors, providing insights into how their prominence in the network compares to their comment performance.
 
