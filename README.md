@@ -48,11 +48,26 @@ This project was conducted as part of my Master's program and involved collabora
 3. **Data Transformation**:
    - Transformed RDF data into a star schema using Python and SPARQL queries.
 4. **Data Modelling**:
-   - Developed a star schema in Power BI.
+   - Developed a star schema in Power BI.<br\>
    ![image](https://github.com/user-attachments/assets/ca1c930d-1004-47f0-9875-69afdf248d8f)
 
 5. **Dashboard Design**:
-   - Built the Power BI dashboard integrating traditional and networked graph visuals using ZoomCharts.
+   - Built the Power BI dashboard, including four report pages integrating traditional and networked graph visuals using ZoomCharts.
+   - Page 1: Actor Performance and Centrality <br\>
+     ![image](https://github.com/user-attachments/assets/1dd47013-9a37-4016-9b22-76d6d0b8fa05) <br\>
+     This page combines traditional bar and column charts with a networked visual to analyse actors with the highest comment counts and their centrality in the movie network. The bar column highlights actors with the most comments, while the bar charts show the centrality rank of top actors. The networked graph adds value by showcasing their connections to specific movies and other actors, providing insights into how their prominence in the network compares to their comment performance.
+
+   - Page 2: Actor Collaborations Across Movies <br\>
+     ![image](https://github.com/user-attachments/assets/d9147df9-8bd9-4d71-914c-78960f0406f6) <br\>
+     This page uses traditional charts to show which actors have acted in the most movies. The networked graph enhances the analysis by revealing actor collaborations within specific movie genres, visually mapping how frequently they co-star in the same movies. Together, they offer a deeper understanding of the relationships between actors and their levels of participation in different genres.
+
+   - Page 3: Actor Versatility <br\>
+     ![image](https://github.com/user-attachments/assets/0b9d0345-153d-4cee-8f3a-856836f0462a) <br\>
+     The bar chart summarises the number of genres top actors have participated in, while a heatmap visualises how many times they appeared in each genre. The networked graph adds another dimension, showing clusters of actors organised by genre participation, which helps identify which actors are more versatile or specialized in certain genres. This combination offers both a high-level overview and a detailed look at actor-genre relationships. 
+
+   - Page 4: Genre Synergies and Engagement <br\>
+   - ![image](https://github.com/user-attachments/assets/3319c736-c73e-43ed-814f-12e434d3fc25) <br\>
+     This page presents genre-movie connections across countries using bar and pie charts to show the most popular movies and genres by comment count. The networked graph maps out the relationships between countries, genres, and movies, providing a comprehensive view of how different genres perform across various countries.
 
 ---
 
