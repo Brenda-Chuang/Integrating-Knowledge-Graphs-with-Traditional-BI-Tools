@@ -60,9 +60,8 @@ By combining traditional performance metrics with relationship-driven networked 
 5. **Dashboard Design**:
    - Built the Power BI dashboard, including four report pages integrating traditional and networked graph visuals using ZoomCharts.
    - Dashboard demo video. <br/>
-     [![Watch the video](https://img.youtube.com/vi/W6pE34_IT0A/0.jpg)](https://www.youtube.com/watch?v=W6pE34_IT0A)
-
-Click the image above to watch the project demo on YouTube.
+     [![Watch the video](https://img.youtube.com/vi/W6pE34_IT0A/0.jpg)](https://www.youtube.com/watch?v=W6pE34_IT0A) <br/>
+     Click the image above to watch the project demo on YouTube.
 
    - Page 1: Actor Performance and Centrality <br/>
      ![image](https://github.com/user-attachments/assets/1dd47013-9a37-4016-9b22-76d6d0b8fa05) <br/>
